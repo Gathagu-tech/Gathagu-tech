@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gathagu-tech ,a begginer
-- 👀 I’m interested in cyber security and web development...
+- 👀 I’m interested in cyber security and software development...
 - 🌱 I’m currently learning web dev as a way of understanding porgramming concepts IT stuff
 - 📫 How to reach me simongathagu1@gmail.com
 <!---
